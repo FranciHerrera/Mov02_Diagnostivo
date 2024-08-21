@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ferreteria Movil</string>
+    <string name="nombre">Nombre del comprador</string>}
+    <string name="telefono">Telefono del comprador</string>
+    <string name="producto">Nombre del producto</string>
+    <string name="cantidad">Cantidad comprada</string>
+    <string name="precio">Precio a pagar</string>
+</resources>
